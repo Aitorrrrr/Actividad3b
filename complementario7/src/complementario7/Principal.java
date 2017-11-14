@@ -171,7 +171,6 @@ public class Principal {
 				{
 					System.out.println("Ha elegido salir");
 				}
-				//Heyy
 			}
 			if (mes!=13)
 			{
