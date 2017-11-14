@@ -10,6 +10,7 @@ public class Principal {
 		int dia=0;
 		int mes;
 		String horoscopo="Belleteyn";
+		//Hola hehe
 		Scanner sc=new Scanner(System.in);
 		
 		System.out.println("Bienvenido a la aplicación que le dirá a que horóscopo pertenece");
